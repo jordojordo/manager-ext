@@ -14,9 +14,9 @@ entries:
       catalog.cattle.io/ui-extensions-version: '>= 3.0.0'
     apiVersion: v2
     appVersion: 3.0.0
-    created: "2025-01-29T14:45:31.559744616-05:00"
+    created: "2025-01-29T15:03:41.952621351-05:00"
     description: NeuVector extension for Rancher Manager
-    digest: 4d47251365c026c1bbf553a149dc3783be1339c2050de79c31b359459e949ec5
+    digest: e43d870ecfc78a6780e931a7d515f4d3ae7f4238ed372b60867882f0642f4326
     icon: https://raw.githubusercontent.com/neuvector/manager-ext/main/pkg/neuvector-ui-ext/nv-icon.svg
     name: neuvector-ui-ext
     type: application
