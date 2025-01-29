@@ -14,9 +14,9 @@ entries:
       catalog.cattle.io/ui-extensions-version: '>= 3.0.0'
     apiVersion: v2
     appVersion: 3.0.0
-    created: "2025-01-29T15:03:41.952621351-05:00"
+    created: "2025-01-29T15:07:27.339863993-05:00"
     description: NeuVector extension for Rancher Manager
-    digest: e43d870ecfc78a6780e931a7d515f4d3ae7f4238ed372b60867882f0642f4326
+    digest: 311f7f6623756013387f46c028d48927b0d97140e64057ff48923a3cb5920ab1
     icon: https://raw.githubusercontent.com/neuvector/manager-ext/main/pkg/neuvector-ui-ext/nv-icon.svg
     name: neuvector-ui-ext
     type: application
@@ -36,7 +36,7 @@ entries:
       catalog.cattle.io/ui-extensions-version: '>= 3.0.0 < 4.0.0'
     apiVersion: v2
     appVersion: 2.1.1
-    created: "2025-01-29T15:03:41.952398861-05:00"
+    created: "2025-01-29T15:07:27.33965504-05:00"
     description: NeuVector extension for Rancher Manager
     digest: 48f4dd5c668996adc9e6c4e9ed220b20ee603e8f8732ee8ad3dc21ee245c3499
     icon: https://raw.githubusercontent.com/neuvector/manager-ext/main/pkg/neuvector-ui-ext/nv-icon.svg
@@ -58,7 +58,7 @@ entries:
       catalog.cattle.io/ui-extensions-version: '>= 3.0.0 < 4.0.0'
     apiVersion: v2
     appVersion: 2.1.0
-    created: "2025-01-29T15:03:41.952175091-05:00"
+    created: "2025-01-29T15:07:27.339445149-05:00"
     description: NeuVector extension for Rancher Manager
     digest: 7eff0a9f64963cc88148b7ec3ec504d324e22bd7c56e4225b74028c57c65441c
     icon: https://raw.githubusercontent.com/neuvector/manager-ext/main/pkg/neuvector-ui-ext/nv-icon.svg
@@ -79,7 +79,7 @@ entries:
       catalog.cattle.io/ui-component: plugins
     apiVersion: v2
     appVersion: 2.0.3
-    created: "2025-01-29T15:03:41.951902844-05:00"
+    created: "2025-01-29T15:07:27.339214954-05:00"
     description: NeuVector extension for Rancher Manager
     digest: 5270a11c44c56b2b4561e59970c37e2fabfed8829c1705f405e15c4864fc0749
     icon: https://raw.githubusercontent.com/neuvector/manager-ext/main/pkg/neuvector-ui-ext/nv-icon.svg
@@ -100,7 +100,7 @@ entries:
       catalog.cattle.io/ui-component: plugins
     apiVersion: v2
     appVersion: 2.0.2
-    created: "2025-01-29T15:03:41.951685459-05:00"
+    created: "2025-01-29T15:07:27.339025407-05:00"
     description: NeuVector extension for Rancher Manager
     digest: f3ca242b8c7accca57bec9f38a178319e455945d108e4e08afe3b210902b0cc0
     icon: https://raw.githubusercontent.com/neuvector/manager-ext/main/pkg/neuvector-ui-ext/nv-icon.svg
@@ -121,7 +121,7 @@ entries:
       catalog.cattle.io/ui-component: plugins
     apiVersion: v2
     appVersion: 2.0.1
-    created: "2025-01-29T15:03:41.950967452-05:00"
+    created: "2025-01-29T15:07:27.338845091-05:00"
     description: NeuVector extension for Rancher Manager
     digest: ae0d3a0975eed8ac4675bdf9e6d3316a8ba367c3fe117f32029f5a17a03456a9
     icon: https://raw.githubusercontent.com/neuvector/manager-ext/main/pkg/neuvector-ui-ext/nv-icon.svg
@@ -142,7 +142,7 @@ entries:
       catalog.cattle.io/ui-component: plugins
     apiVersion: v2
     appVersion: 2.0.0
-    created: "2025-01-29T15:03:41.950597828-05:00"
+    created: "2025-01-29T15:07:27.338607697-05:00"
     description: NeuVector extension for Rancher Manager
     digest: 4c9f227e5b1e14c3aa211346bd06f03b2774cccd0f11abb5e997d9e4b8912c25
     icon: https://raw.githubusercontent.com/neuvector/manager-ext/main/pkg/neuvector-ui-ext/nv-icon.svg
@@ -163,7 +163,7 @@ entries:
       catalog.cattle.io/ui-component: plugins
     apiVersion: v2
     appVersion: 1.0.1
-    created: "2025-01-29T15:03:41.950389488-05:00"
+    created: "2025-01-29T15:07:27.338185428-05:00"
     description: NeuVector extension for Rancher Manager
     digest: 6915bf5a5f83718b383968890fc22c2aa1d368c05ecd24d4f951831bb55ed9ba
     icon: https://raw.githubusercontent.com/neuvector/manager-ext/main/pkg/neuvector-ui-ext/nv-icon.svg
@@ -184,7 +184,7 @@ entries:
       catalog.cattle.io/ui-component: plugins
     apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-01-29T15:03:41.950193393-05:00"
+    created: "2025-01-29T15:07:27.337985386-05:00"
     description: NeuVector extension for Rancher Manager
     digest: 7d174ef254ee5f9639841be412939271463341d64f7a2e70a902ecf7b663f11b
     icon: https://raw.githubusercontent.com/neuvector/manager-ext/main/pkg/neuvector-ui-ext/nv-icon.svg
@@ -193,4 +193,4 @@ entries:
     urls:
     - assets/neuvector-ui-ext/neuvector-ui-ext-1.0.0.tgz
     version: 1.0.0
-generated: "2025-01-29T15:03:41.949868567-05:00"
+generated: "2025-01-29T15:07:27.337639714-05:00"
