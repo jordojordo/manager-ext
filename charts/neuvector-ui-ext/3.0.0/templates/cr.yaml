@@ -8,7 +8,7 @@ spec:
   plugin:
     name: {{ include "extension-server.fullname" . }}
     version: {{ (semver (default .Chart.AppVersion .Values.plugin.versionOverride)).Original }}
-    compressedEndpoint: https://raw.githubusercontent.com/jordojordo/manager-ext/gh-pages/extensions/neuvector-ui-ext/3.0.0
+    compressedEndpoint: https://raw.githubusercontent.com/jordojordo/manager-ext/gh-pages/extensions/neuvector-ui-ext/3.0.0.tgz
     noCache: {{ .Values.plugin.noCache }}
     noAuth: {{ .Values.plugin.noAuth }}
     metadata: {{ include "extension-server.pluginMetadata" . | indent 6 }}
